@@ -1,4 +1,4 @@
-## Movies 
+## Filmes 
 
 [Funcionalidades](#funcionalidades-checkered_flag) | [Tecnologias](#tecnologias-computer) | [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
