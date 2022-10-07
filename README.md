@@ -16,11 +16,12 @@ Mini projeto de filmes consumindo a API The Movie DB.
 
 - Consumo da API de Filmes The Movie DB (tmdb)
 - Listagem dos filmes lançamentos
+- Página de Detalhes do filme
 - Rotas com react-router-dom
 
 ### Projeto Online :dash:
 
-> Em Breve...
+> https://api-filmes-two.vercel.app/
 
 ### Tecnologias :computer:
 
