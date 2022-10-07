@@ -1,10 +1,11 @@
 import { useState, useEffect } from 'react'
 import { Container, Movie, MovieList } from './styles'
-import { APIKey } from '../../config/key'
 import { Link } from 'react-router-dom'
 import Head from '../../Head/Head'
 
 const Home = () => {
+  const APIKey = '5b5c4bcb2cda8e6cc5c45d08e8f31ec1'
+
   const [movies, setMovies] = useState([])
   const image_path = 'https://image.tmdb.org/t/p/w500'
 
